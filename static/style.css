@@ -85,7 +85,7 @@ html, body{
   margin-left: 250px;
 }
 section#inicio{
-  background-image: url("./img/aurora-boreal-rosa.jpg"); /* alterar imagem de fundo */
+  background-image: url("./Img/aurora-boreal-rosa.jpg"); /* alterar imagem de fundo */
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
